@@ -1,0 +1,17 @@
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\bin\Debug\net8.0-windows\Heroscape Army Builder.exe
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\bin\Debug\net8.0-windows\Heroscape Army Builder.deps.json
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\bin\Debug\net8.0-windows\Heroscape Army Builder.runtimeconfig.json
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\bin\Debug\net8.0-windows\Heroscape Army Builder.dll
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\bin\Debug\net8.0-windows\Heroscape Army Builder.pdb
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape_Army_Builder.Form1.resources
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.csproj.GenerateResource.cache
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.AssemblyInfoInputs.cache
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.AssemblyInfo.cs
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.sourcelink.json
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.dll
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\refint\Heroscape Army Builder.dll
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.pdb
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\Heroscape Army Builder.genruntimeconfig.cache
+E:\ProgrammingProjects\HeroscapeArmyBuilder\Heroscape Army Builder\obj\Debug\net8.0-windows\ref\Heroscape Army Builder.dll
